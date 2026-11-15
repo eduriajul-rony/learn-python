@@ -1,6 +1,5 @@
-a = int(input())
-b = int(input())
-if a == b :
-    print("2 jon e soman")
-else :
-    print("soman noi")
+
+a = int(input("Enter the value of a : "))
+b = int(input("Enter the value of b : "))
+
+print("The summation is : ", a+b)
