@@ -10,6 +10,7 @@ print(get_python())
 
 # new program
 
+
 def same_value(x) :
     result = x
     return result
